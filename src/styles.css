@@ -1,0 +1,30 @@
+.App {
+  font-family: monospace;
+  text-align: center;
+  background-color: rgb(167, 167, 28);
+  padding: 1rem;
+  margin: auto;
+}
+
+.container {
+  padding: 0.5rem;
+  max-width: 90rem;
+}
+
+button {
+  background-color: white;
+  padding: 1rem 2rem;
+  margin: 1rem 0.5rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.container .list-block {
+  padding: 1rem 2rem;
+  background-color: rgb(79, 101, 221);
+  margin: 1rem auto;
+  border-radius: 0.5rem;
+  text-align: left;
+  max-width: 300px;
+}
